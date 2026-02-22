@@ -1,0 +1,4 @@
+ProductoID,Producto,Categoria,Cantidad,PrecioUnitario
+101,Producto A,Categoria 1,50,30
+102,Producto B,Categoria 2,20,45
+103,Producto C,Categoria 1,30,25
